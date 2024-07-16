@@ -1,5 +1,5 @@
 # Company-Descriptions-Agent
-As part of my time as a Research Assistant at the Technical University, a PHD student tasked me with creating an AI agent to generate company descriptions given a list of companies. I used a mixture of past programming experience, online tutorials, reading API documentation, and generative AI for small tweaks. 
+As part of my time as a Research Assistant at the Technical University in Dortmund, Germany, a PHD student tasked me with creating an AI agent to generate company descriptions given a list of companies. I used a mixture of past programming experience, online tutorials, reading API documentation, and generative AI for small tweaks. 
 
 ## Overview
 

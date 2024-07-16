@@ -23,4 +23,5 @@ pip install streamlit pandas requests python-dotenv google-generativeai PyPDF2
 You must create your .env file giving reference to your API keys. Here is an example of the .env file:
 
 GOOGLE_API_KEY = "xxxxxx"
+
 SERPAPI_API_KEY = "xxxxx"
